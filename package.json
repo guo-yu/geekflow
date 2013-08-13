@@ -1,0 +1,17 @@
+{
+  "name": "geekflow",
+  "version": "0.0.0",
+  "description": "a sexy workflow for geek team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geek",
+    "flow",
+    "workflow",
+    "oa"
+  ],
+  "author": "turing",
+  "license": "MIT"
+}
