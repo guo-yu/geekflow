@@ -1,8 +1,6 @@
 ![logo](http://ww2.sinaimg.cn/large/61ff0de3gw1e7lgf88hb2j202s00vt8h.jpg) geekflow ![](https://badge.fury.io/js/geekflow.png)
 ---
 
-![banner](http://ww1.sinaimg.cn/large/61ff0de3gw1e7lgz448qvj20h80bhgme.jpg)
-
 geekflow 是一套工具集的代码集合，这些工具致力于将初创企业的 `展现/用户界面层` 开发变得简单易行，通过对`本地开发环境`，模拟线上环境的`预发布环境`与`线上生产环境` 进行组合，编写自动化脚本，最大程度上低成本地实现`中小型创业公司`的`高可维护`的前端环境。
 
 ### 如何安装
@@ -20,3 +18,9 @@ geekflow 包括以下几个流程：
 - 本地开发环境的测试账户自动切换工具，用于调试数据业务逻辑
 - 集成 Grunt 的代码校验与自动化单元测试
 - 集成 Git 的自动化部署工具，实现各个环境之间的快速部署与回滚
+
+### geekflow 理念
+
+自动化流程应当尽其所能保障程序员专注于有趣的工作，专注于用户体验地编码。
+
+![banner](http://ww1.sinaimg.cn/large/61ff0de3gw1e7lgz448qvj20h80bhgme.jpg)
